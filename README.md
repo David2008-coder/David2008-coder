@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @David2008-coder
-- 👀 i am a good writer
-- 🌱 I’m currently learning ... programming
-- 💞️ I’m looking to collaborate on ... companies to write because i really love to write
+- I'm a Frontend developer 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...+2348142657490
 - 😄 Pronouns: ...HE
 - ⚡ Fun fact: ...Love writing as a freelance writer and programming
